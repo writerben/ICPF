@@ -252,6 +252,7 @@ const HomePage = ({ data }) => {
           )}
         </div>
       </div>
+      <BlogListHomeTest data={posts} />
       <BlogListHome data={posts} />
     </Layout>
   )
