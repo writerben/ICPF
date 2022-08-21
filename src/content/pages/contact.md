@@ -7,7 +7,7 @@ title: Get Connected
 
 We are happy to talk!
 
-* Message us on [WhatsApp](wa.me/+353894899178)
+* Message us on [WhatsApp](https://wa.me/+353894899178)
 * DM us on [Twitter](https://mobile.twitter.com/icpfi)
 * <a href="mailto:icpfmail@gmail.com">Email us </a>
 * Use the form below for feedback/callback
