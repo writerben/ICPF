@@ -1,12 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: ICPF Ireland
+tagline: "Equipping Leaders "
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+
+ICPF Ireland (Inter Collegiate Prayer Fellowship), is a Christian Youth Organization working among teenagers and young adults in Ireland. ICPF Ireland is an extension of ICPF that has being serving the youngsters in many nations from last 35 years, equipping the young adults to be morally upright and spiritually convinced to be better individuals.
