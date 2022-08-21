@@ -2,11 +2,11 @@
   "meta": {
     "title": "ICPF Ireland",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "ICPF Ireland. Equipping young adults for Christ.",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/rsz_screenshot_20220821-192308_2.jpg",
+    "iconimage": "/assets/rsz_screenshot_20220821-192308_2.jpg",
+    "twitterUsername": "@icpf7"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
