@@ -7,6 +7,18 @@
     {
       "icon": "instagram",
       "url": "https://www.instagram.com/icpfireland/?h"
+    },
+    {
+      "icon": "twitter",
+      "url": "https://mobile.twitter.com/icpfi"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/channel/UCfLt_SgI7wSrIE5GUcLeQjw"
+    },
+    {
+      "icon": "telegram",
+      "url": "https://t.me/+xqfzHm9Y4xQ3Yzg0"
     }
   ]
 }
