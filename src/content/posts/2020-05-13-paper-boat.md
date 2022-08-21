@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
+title: "Local Area Support "
+slug: /local-area-support
 date: 2020-05-23 23:40
-description: How to draw a character
+description: ICPF regional contacts
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---
 
