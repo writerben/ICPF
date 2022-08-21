@@ -5,8 +5,8 @@ title: ICPF Ireland
 tagline: "Equipping Leaders "
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Get Connected
+  ctaLink: /contact
 ---
 
 
