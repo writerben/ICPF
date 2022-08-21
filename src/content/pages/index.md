@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: ICPF Ireland
 tagline: "Equipping Leaders "
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/icpf-ireland.jpeg
 cta:
   ctaText: Get Connected
   ctaLink: /contact
